@@ -1,10 +1,8 @@
 <div align="center">
 <img 
-  <p align="center">
-  src="bannergithub.png"
-  alt="Banner"
-  width="100%"
-/>
+<p align="center">
+  <img src="COLE_O_LINK_AQUI" alt="Thiago Siqueira Workspace" width="100%">
+</p>
 
 ---
 
